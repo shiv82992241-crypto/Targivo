@@ -1,0 +1,6 @@
+{
+  "name": "Student Target Tracker",
+  "description": "A modern, minimalist academic target and study progress tracker with goal setting, Pomodoro timer, step tracking, and daily study notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
